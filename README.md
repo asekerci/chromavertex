@@ -24,5 +24,9 @@ On top of localization, the robots can run formation-control behaviors to create
 
 We use [KiCad](https://www.kicad.org/) for VertexBot circuit designs, and those designs are available in the [VertexBot repository](https://github.com/patrickdiligent/VertexBot).
 
+## Parts List
+
+The VertexBot parts list is also available as an accessible Markdown table: [docs/system/vbot_parts.md](docs/system/vbot_parts.md).
+
 
 
