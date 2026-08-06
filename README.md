@@ -6,8 +6,9 @@
   <img src="./docs/images/diagrams/chromavertex_swarm_sketch_aug2026.png" alt="The ChromaVertex swarm idea" width="70%">
 </p>
 
-ChromaVertex is a community hobby project focused on cooperative robot networks. As members of the Deep Dive Guild at Melbourne TechGuilds, we are building inexpensive VertexBots to explore swarm behaviour, computer vision, geometry, and distributed algorithms. Our aim is to create a shared platform where each person can assemble one or more robots, take them home, and continue developing algorithms between group sessions, not to compete with sophisticated research platforms, but to learn, experiment, and enjoy the journey together.
+ChromaVertex is a community hobby project focused on cooperative robot networks. 
 
+As members of the *Deep Dive Guild* at [Melbourne TechGuilds](https://techguilds.au/), we are building inexpensive VertexBots to explore swarm behaviour, computer vision, geometry, and distributed algorithms. Our aim is to create a shared platform where each person can assemble one or more robots, take them home, and continue developing algorithms between group sessions, not to compete with sophisticated research platforms, but to learn, experiment, and enjoy the journey together.
 
 The project is intentionally low-cost (roughly $120 per robot in early estimates), and it supports different levels of involvement. You can explore as deeply as you like, from 3D printing and hardware assembly to image processing, sensor fusion, and distributed control algorithms.
 
