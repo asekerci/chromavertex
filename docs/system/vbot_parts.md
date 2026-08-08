@@ -2,6 +2,8 @@
 
 Source: `docs/system/vbot_parts.xls`
 
+## Must Have Items
+
 <table border="1" cellspacing="0" cellpadding="6">
 	<thead>
 		<tr>
@@ -34,7 +36,8 @@ Source: `docs/system/vbot_parts.xls`
 </tbody>
 </table>
 	
-		
+## Optional Items for Some Additional Experiments 
+
 <table border="1" cellspacing="0" cellpadding="6">
 	<thead>
 		<tr>
