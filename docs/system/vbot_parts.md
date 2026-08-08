@@ -31,7 +31,24 @@ Source: `docs/system/vbot_parts.xls`
 		<tr><td>Yes</td><td>3D-printed chassis</td><td></td><td></td><td>0</td><td></td><td>We will use Makerspace printers</td></tr>
 		<tr><td>Yes</td><td>Identification light pillar</td><td></td><td>???</td><td>5</td><td></td><td>Mick's design is in progress</td></tr>
 		<tr><td><strong>Total Must Have</strong></td><td></td><td></td><td></td><td><strong>100.87</strong></td><td></td><td></td></tr>
-		<tr><td>No</td><td>Ultra-wide angle lens</td><td>2</td><td>14.76</td><td>29.52</td><td></td><td>Too expensive? We may not need it.</td></tr>
+</tbody>
+</table>
+	
+		
+<table border="1" cellspacing="0" cellpadding="6">
+	<thead>
+		<tr>
+			<th>Must Have?</th>
+			<th>Item</th>
+			<th>Quantity per Board</th>
+			<th>Unit Price (A$)</th>
+			<th>Cost Per Robot</th>
+			<th>URL</th>
+			<th>Remarks</th>
+		</tr>
+	</thead>
+	<tbody>
+   <tr><td>No</td><td>Ultra-wide angle lens</td><td>2</td><td>14.76</td><td>29.52</td><td></td><td>Too expensive? We may not need it.</td></tr>
 		<tr><td>No</td><td>Audio amplifier IC (I2S)</td><td>1</td><td></td><td>2</td><td><a href="https://www.aliexpress.com/item/1005008660121858.html">AliExpress</a></td><td></td></tr>
 		<tr><td>No</td><td>Mini speaker</td><td>1</td><td></td><td>2</td><td><a href="https://www.aliexpress.com/item/33044468358.html">AliExpress</a></td><td>uxcell 1W 8 Ohm 16 mm dia speaker with wire for electronic projects</td></tr>
 		<tr><td>No</td><td>Microphone (I2S)</td><td>1</td><td></td><td>2</td><td><a href="https://www.aliexpress.com/item/1005010798450348.html">AliExpress</a></td><td></td></tr>
