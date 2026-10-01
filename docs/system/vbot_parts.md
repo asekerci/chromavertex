@@ -22,11 +22,11 @@ Source: `docs/system/vbot_parts.xls`
 		<tr><td>Yes</td><td>Motor</td><td>2</td><td>2.5</td><td>5</td><td><a href="https://core-electronics.com.au/tt-motor-l-type-50-rpm.html">Core Electronics</a></td><td></td></tr>
 		<tr><td>Yes</td><td>Wheel</td><td>2</td><td>1.6</td><td>3.2</td><td><a href="https://core-electronics.com.au/wheel-for-tt-motor-60mm-encoder.html">Core Electronics</a></td><td></td></tr>
 		<tr><td>Yes</td><td>0.96 inch OLED display</td><td>1</td><td>3.72</td><td>3.72</td><td><a href="https://www.aliexpress.com/item/1005012369371560.html">AliExpress</a></td><td>TENSTAR 0.96 Inch I2C OLED display module, driver chip SSD1315</td></tr>
-		<tr><td>Yes</td><td>Circle PCB board</td><td>1</td><td>???</td><td>20</td><td></td><td>??? (design is in-progress)</td></tr>
-		<tr><td>Yes</td><td>Back board</td><td>2</td><td>???</td><td>5</td><td></td><td>??? (design is in-progress)</td></tr>
+		<tr><td>Yes</td><td>Circle PCB board</td><td>1</td><td>???</td><td>20</td><td></td><td>Patrick's design is in-progress</td></tr>
+		<tr><td>Yes</td><td>Back board</td><td>2</td><td>???</td><td>5</td><td></td><td>Patrick's design is in-progress</td></tr>
 		<tr><td>Yes</td><td>Battery</td><td>1</td><td>15</td><td>15</td><td></td><td>21700 3.7V lithium battery</td></tr>
 		<tr><td>Yes</td><td>Battery contacts</td><td>1</td><td></td><td>1</td><td><a href="https://www.aliexpress.com/item/33044468358.html">AliExpress</a></td><td></td></tr>
-		<tr><td>Yes</td><td>Regulator</td><td>1</td><td>9.95</td><td>9.95</td><td><a href="https://www.robotgear.com.au/Product.aspx/Details/5599-3-3V-Step-Up-Step-Down-Voltage-Regulator-w-Fixed-3V-Low-Voltage-Cutoff-S9V11F3S5C3">RobotGear</a></td><td>Step-up/Step-down voltage regulator with 3V low-voltage cutoff (S9V11F3S5C3)</td></tr>
+		<tr><td>Yes</td><td>Regulator</td><td>1</td><td>23.00</td><td>23.00</td><td><a href="https://www.robotgear.com.au/Product.aspx/Details/8803-5V-Step-Up-Step-Down-Voltage-Regulator-S13V30F5?srsltid=AU7gw4VAfYu5oV1mCXsRF_7P85crwu9vSYYKEdabAHchChXuoCuv-Vhf">RobotGear</a></td><td>5V, 3A Step-Up/Step-Down Voltage Regulator (S13V30F5)</td></tr>
 		<tr><td>Yes</td><td>Small disk magnets</td><td>16</td><td></td><td>1</td><td><a href="https://www.aliexpress.com/item/1005009835278747.html">AliExpress</a></td><td>For wheel rotation counters, 3x2 mm</td></tr>
 		<tr><td>Yes</td><td>3M screws and nuts</td><td></td><td></td><td>1</td><td></td><td></td></tr>
 		<tr><td>Yes</td><td>2M screws and nuts</td><td></td><td></td><td>1</td><td></td><td></td></tr>
